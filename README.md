@@ -4,8 +4,8 @@ Feature Engineering and Text Cleaning of different blogs\
 It is the process of gathering, reviewing, and interpreting data from blogs
 
 #### Folder contains the following
-| Elements || Description  |
-| :-------- | :------- | :---------------------- |
+| Elements | Description  |
+| :-------- | :---------------------- |
 | data | files given for the task |
 | texts | *.txt* files containing blogs from different link |
 | output | *.csv* and *.xlsx* files containing features and processed text |
