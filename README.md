@@ -1,12 +1,9 @@
 
-# Blog Analysis
-
-I completed the assignment given on 5th Feb from Black Coffer regarding text analysis of blogs and articles from different websites.
-
+## Blog Analysis
+Feature Engineering and Text Cleaning of different blogs\
+It is the process of gathering, reviewing, and interpreting data from blogs
 
 #### Folder contains the following
-
-
 | Elements || Description  |
 | :-------- | :------- | :---------------------- |
 | data | files given for the task |
@@ -25,8 +22,9 @@ Loaded **StopWords** and **Negative / Positive** *.txt* files into **separate li
 
 Created **functions** for each feature given in the **Objective** *.docx* file. For finding **syllables**, I used *syllables* library in Python. I **appended** all numerical values in separate lists and **added in dataframe**
 
-
-## Authors
-
-- [@subhashishansda4](https://github.com/subhashishansda4)
-
+## Why?
+This data can be used to understand the following:
+* Audience - Who are the blog's readers? What are their interests? What do they want ot learn about?
+* Content - What topics are covered in the blog? What is the quality of the content? Is the content original or plagiarized?
+* Conversion Rate - Identifying what content is most effective at converting readers into leads or customers
+* SEO - How well does the blog rank in search engine results pages (SERPs)? What keywords and phrases are useed in the blog's content?
